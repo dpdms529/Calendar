@@ -1,6 +1,7 @@
 # Calendar
-![image](https://user-images.githubusercontent.com/60471550/122938749-fcdbd380-d3ad-11eb-880c-74a248ac10a4.png)
 달력 및 스케쥴러 프로그램입니다.
+
+![image](https://user-images.githubusercontent.com/60471550/122938749-fcdbd380-d3ad-11eb-880c-74a248ac10a4.png)
 ## 기능
 ### 달력
 - 이전 달, 다음 달로 이동
